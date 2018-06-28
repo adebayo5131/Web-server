@@ -1,5 +1,7 @@
 html, body {
 	height: 100%;
+    
+   
 }
 
 body {
@@ -11,6 +13,9 @@ body {
 	font-weight: 400;
 	color: rgba(0,0,0,.8);
 	background: cover;
+   
+    
+    
 }
 
 
@@ -99,7 +104,8 @@ hr {
 
 #wrapper {
 	width:100%;
-	background:white;
+    background-image: url(images/webBack.jpg) ;
+    background-size: cover;
 	margin: 0px 20px;
 }
 
@@ -111,6 +117,9 @@ hr {
    
    
 	
+}
+#contact input{
+    padding: 20px;
 }
 
 .clearfix {
@@ -285,6 +294,8 @@ display:block;
 #page {
 	overflow: hidden;
 	padding: 5em 0em;
+    letter-spacing: 1px;
+  
 }
 
 	#page img
