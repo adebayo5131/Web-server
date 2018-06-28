@@ -107,6 +107,7 @@ hr {
     background-image: url(images/webBack.jpg) ;
     background-size: cover;
 	margin: 0px 20px;
+   
 }
 
 .container {
@@ -653,5 +654,10 @@ ul.style3 .first {
            color: #000;
 	}
 	
+/*vertical split*/
+
+
+
+
 
 
