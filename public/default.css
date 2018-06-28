@@ -140,8 +140,8 @@ display:block;
 #header {
 	position: relative;
 	overflow: hidden;
-	height: 300px;
-	image-orientation: flip;
+	height: 380px;
+
 }
 
 #social
@@ -195,7 +195,8 @@ display:block;
 
 #menu {
 	overflow: hidden;
-	background: #101010;
+	background-color: black;
+    
 }
 
 #menu ul {
