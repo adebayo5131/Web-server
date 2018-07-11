@@ -1,5 +1,5 @@
 html,
-body{
+body {
     height: 100%;
 
 
@@ -8,7 +8,8 @@ body{
 body {
     margin: -20px;
     padding: 0px;
-    
+    background-color: black;
+
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 12pt;
     font-weight: 400;
@@ -104,10 +105,8 @@ hr {
 
 #wrapper {
     width: 100%;
- 
     background-image: url(images/webBack.jpg);
     background-size: cover;
-     
 
 }
 
@@ -135,7 +134,6 @@ hr {
 /** HEADER */
 
 #header-wrapper {
-    width: 100%;
     background: url(images/wedesigned.jpg) no-repeat center center;
     background-size: cover;
 }
