@@ -101,7 +101,7 @@ hr {
 /** WRAPPER */
 
 #wrapper {
-
+    width: 100%;
     background-image: url(images/webBack.jpg);
     background-size: cover;
 
