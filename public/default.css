@@ -7,7 +7,7 @@ html,body {
 }
 
 body {
-    margin: 0px;
+    margin: -20px;
     padding: 0px;
     background: #F8F8F8 url(images/overlay.png) repeat;
     font-family: 'Source Sans Pro', sans-serif;
@@ -105,6 +105,7 @@ hr {
     width: 100%;
     background-image: url(images/webBack.jpg);
     background-size: cover;
+    margin: 0px 20px;
 
 
 
