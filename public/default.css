@@ -103,7 +103,8 @@ hr {
 /** WRAPPER */
 
 #wrapper {
-
+    width: 100%;
+ 
     background-image: url(images/webBack.jpg);
     background-size: cover;
      
@@ -134,6 +135,7 @@ hr {
 /** HEADER */
 
 #header-wrapper {
+    width: 100%;
     background: url(images/wedesigned.jpg) no-repeat center center;
     background-size: cover;
 }
